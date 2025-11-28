@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Exercise",
+    "unit": "Minutes",
+    "goal": 45.0
+  },
+  {
+    "name": "Read",
+    "unit": "Minutes",
+    "goal": 30.0
+  },
+  {
+    "name": "drink water",
+    "unit": "Minutes",
+    "goal": 10.0
+  }
+]
